@@ -2,7 +2,9 @@
 
 // Refer to the README.md for detailed project instructions and guidelines.
 
+using namespace std;
+
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    cout << "Hello, World!" << endl;
     return 0;
 }
